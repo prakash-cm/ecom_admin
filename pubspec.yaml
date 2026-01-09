@@ -1,0 +1,28 @@
+name: ecom_admin
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl:
+  http: 
+  hive: 
+  flutter_bloc:
+  path_provider:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner:
+  flutter_lints:
+  hive_generator:
+
+  
+flutter:
+  uses-material-design: true
